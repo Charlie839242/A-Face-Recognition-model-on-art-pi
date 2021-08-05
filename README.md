@@ -3,6 +3,8 @@
 This model can identify the faces of a certain number of people depending on the labels that users give to the training set.
 It mainly uses a two-layer CNN structure.
 
+![image](https://github.com/Charlie839242/A-Face-Recognition-model-on-art-pi/blob/main/image/0.png)
+
 # How to Use
 
   "py" folder contains codes that develops from taking photos to training a model.
